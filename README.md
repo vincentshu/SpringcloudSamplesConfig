@@ -1,0 +1,2 @@
+# SpringcloudSamplesConfig
+test
